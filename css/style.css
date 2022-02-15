@@ -1,0 +1,46 @@
+
+img{
+    display: block;
+    margin: 0 auto;
+    
+} 
+  
+.continer{
+    margin: 0 auto; 
+    width: 1700px;
+   
+}
+
+.search-box{
+  
+    background-color: #EEEEEE;
+    text-align: center; 
+    margin: auto 70px;
+}
+
+.box{
+    float: left;
+    margin: 2px 0 0 2px;
+    padding: 6px 0 6px 0;
+    height: 80px;
+    text-align: center;
+
+}
+.box-left{
+  margin-left: 70px;
+  width: 600px;
+  background-color: #7EE5DA;
+
+}
+.box-center{
+
+  width: 300px;
+  background-color: #70CCC2;
+
+}
+.box-right{
+
+    width: 380px;
+    background-color: #62B3AA;
+  
+  }
